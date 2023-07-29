@@ -4,9 +4,9 @@
 
 # Site
 title: Lew1s777
-subtitle: ''
-description: ''
-keywords:
+subtitle: "Lew1s777's personal website"
+description: 'Lew1s777'
+keywords: "archlinux"
 author: nageyqma Hu
 language: en
 timezone: "Asia/Shanghai"
@@ -98,7 +98,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+#theme: landscape
+theme: fluid
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
