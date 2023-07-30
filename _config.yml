@@ -5,7 +5,7 @@
 # Site
 title: Lew1s777
 subtitle: "Lew1s777's personal website"
-description: 'Lew1s777'
+description: "Lew1s777's personal website"
 keywords: "archlinux"
 author: nageyqma Hu
 language: en
@@ -41,7 +41,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -104,4 +104,7 @@ theme: fluid
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/Lew1s777/Lew1s777.github.io.git
+  branch: master
+  message: blog update
